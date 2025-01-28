@@ -1,4 +1,4 @@
-# Esilv_Api_Project
+# Esilv_Api_Project (Course : Python/Git/Linux for Bloomberg)
 
 ### Project
 **Create an API for AI News Overview**
